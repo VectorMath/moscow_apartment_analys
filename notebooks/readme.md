@@ -1,4 +1,2 @@
 # Пайплайн работы.
-<p align="center">
-  <img src="docs/FAQ.png" />
-</p>
+![Alternative image text](../docs/FAQ.png)
